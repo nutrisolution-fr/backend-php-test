@@ -349,8 +349,9 @@ You will receive a starter project with:
 
 ## 📬 Deliverable
 
-- Git repository (GitHub/GitLab) with commit history
-- README with installation instructions and how to run tests
-- All tests must pass (`composer test`)
+Send a `.zip` file containing:
+- Your completed project (backend + frontend)
+- All tests passing (`composer test`)
+- Both servers run without errors
 
 **Good luck! 🚀**
